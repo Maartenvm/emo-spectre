@@ -20,4 +20,5 @@ module.exports = {
     'no-console': 0,
     'camelcase': 'off'
   },
+  globals: { fc: true, d3: true },
 }
